@@ -10,7 +10,7 @@ source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
 
 # ALIAS
 alias sbt="sbt -v"
-. /home/alexandre/z.sh
+. ~/z.sh
 
 alias bat="batcat"
 alias cat="bat"
