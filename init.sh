@@ -10,9 +10,11 @@ git config --global user.name "Alex"
 sudo apt install curl 
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
 
-sudo apt-get install tmux
+sudo apt install tmux
 sudo apt install vim
 sudo apt install bat
+sudo apt install yarn
+sudo apt install postgresql-client postgresql-client-common libpq-dev
 
 sudo snap install intellij-idea-ultimate --classic
 

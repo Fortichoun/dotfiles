@@ -21,7 +21,3 @@ export HISTSIZE=10000
 export HISTFILESIZE=10000
 export TERM="xterm-256color"
 export BROWSER=/usr/bin/firefox
-
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="~/.sdkman"
-[[ -s "~/.sdkman/bin/sdkman-init.sh" ]] && source "~/.sdkman/bin/sdkman-init.sh"
