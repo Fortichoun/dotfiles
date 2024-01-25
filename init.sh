@@ -20,6 +20,7 @@ sudo snap install intellij-idea-ultimate --classic
 
 cp ~/dotfiles/.gitconfig ~/.gitconfig
 cp ~/dotfiles/.gitignore ~/.gitignore
+cp ~/dotfiles/.tmux.conf ~/.tmux.conf
 
 ## zsh + prezto
 sudo apt install zsh
